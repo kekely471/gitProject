@@ -8,4 +8,8 @@ public class HellowGit {
 
     private final String BEEF1 = "beef";
 
+    private final String Beef2 = "beef";
+
+
+
 }
