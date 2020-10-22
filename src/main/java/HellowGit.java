@@ -5,4 +5,7 @@
 public class HellowGit {
 
     private final String BEEF = "beef";
+
+    private final String BEEF1 = "beef";
+
 }
